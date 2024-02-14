@@ -5,3 +5,4 @@
 ## ->We can format the the fonts and background color of editor.
 ## ->Menu bar with menus like File, Edit, Format, Background color is present.
 ## ->The clipboard for handling multiple strings is based on Stack.
+![#f03c15]
