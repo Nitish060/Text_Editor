@@ -5,3 +5,5 @@
 #### ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) We can format the the fonts and background color of editor.
 #### ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) Menu bar with menus like File, Edit, Format, Background color is present.
 #### ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) The clipboard for handling multiple strings is based on Stack.
+
+https://github.com/Nitish060/Text_Editor/assets/112231999/39114ea7-3912-47c4-a221-0cf671592015
